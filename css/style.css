@@ -1,1 +1,5 @@
 /* css/style.css */
+body, div, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, p, form, fieldset, input, table, tr, th, td, button, textarea {margin:0;padding:0;}
+ul, ol, li{list-style:none}
+img{border:0;}
+p {font-size:4em;}
